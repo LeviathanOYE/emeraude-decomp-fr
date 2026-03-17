@@ -1,11 +1,7 @@
-# Pokémon Emerald
+# Pokémon Emeraude
 
-This is a decompilation of Pokémon Emerald.
+Il s'agit de l'application de la version française de Pokémon Emeraude sur son projet de décompilation : https://github.com/pret/pokeemerald
+Les fichiers ne changeant pas ne sont pas présents dans ce repository.
+Pour appliquer la version française, il faut prendre les sources du projet de décompilation et remplacer les fichiers en commun par ceux de ce repository. 
 
-It builds the following ROM:
-
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
-
-To set up the repository, see [INSTALL.md](INSTALL.md).
-
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+Les traductions sont les officielles, récupérées via le projet Poké Corpus : https://abcboy101.github.io/poke-corpus/
