@@ -2,7 +2,7 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
 {
     [MOVE_NONE] = _("--"),
     [MOVE_POUND] = _("ECRAS'FACE"),
-    [MOVE_KARATE_CHOP] = _("POING-KARATEP"),
+    [MOVE_KARATE_CHOP] = _("POING-KARATE"),
     [MOVE_DOUBLE_SLAP] = _("TORGNOLES"),
     [MOVE_COMET_PUNCH] = _("POING COMETE"),
     [MOVE_MEGA_PUNCH] = _("ULTIMAPOING"),
